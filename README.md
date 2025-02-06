@@ -13,6 +13,9 @@ git clone https://github.com/krigjo25/Console-blubs-c.git
 
 ## SSH
 git@github.com:krigjo25/Console-blubs-c.git
+
+# Github CLI
+git repo clone krigjo25/Console-blubs-c
 ```
 
 2. Navigate to the project directory
